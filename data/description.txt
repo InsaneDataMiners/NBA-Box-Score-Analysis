@@ -1,0 +1,9 @@
+This SQL database contains team and player statistics from individual regular season games from 10 seasons (2013-2014 through 2022-2023). The database includes 3 tables:
+
+Game Info: 11,979 rows, each containing information about the teams, score, and outcome.
+Team Stats: 23,958 rows with boxscore stats from each game.
+Player Stats: 305,732 rows with boxscore stats from each game.
+While this kind of data can be found elsewhere on the internet, it is typically not in a format that allows for easy manipulation and analysis. The goal was to create a database that allows users to more easily perform statistical analysis and modeling.
+
+
+Kaggle Link : https://www.kaggle.com/datasets/lukedip/nba-boxscore-dataset
